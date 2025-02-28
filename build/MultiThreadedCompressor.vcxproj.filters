@@ -7,16 +7,19 @@
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\huffman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\logger.cpp">
+    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\lz77.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\lz77.cpp">
+    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\rle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\logger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

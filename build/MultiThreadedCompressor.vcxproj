@@ -334,10 +334,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\compressor.cpp" />
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\huffman.cpp" />
-    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\logger.cpp" />
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\lz77.cpp" />
+    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\rle.cpp" />
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\main.cpp" />
     <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\utils.cpp" />
+    <ClCompile Include="C:\Users\NAVEEN\MultiThreadedCompressor\src\logger.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

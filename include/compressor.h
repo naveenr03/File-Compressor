@@ -1,13 +1,11 @@
-// include/compressor.h
 #ifndef COMPRESSOR_H
 #define COMPRESSOR_H
 
 #include <string>
 
-class CompressionAlgorithm {
+class Compressor {
 public:
-    virtual void compress(const std::string& inputFile, const std::string& outputFile) = 0;
-    virtual ~CompressionAlgorithm() {}
+    void compress(const std::string& inputFile, const std::string& outputFile);
 };
 
 #endif // COMPRESSOR_H

@@ -1,12 +1,11 @@
-#ifndef LZ77_H
-#define LZ77_H
+#ifndef RLE_H
+#define RLE_H
 
 #include "compression_algorithm.h"
 
-
-class LZ77 : public CompressionAlgorithm {
+class RLE : public CompressionAlgorithm {
 public:
     void compress(const std::string& inputFile, const std::string& outputFile) override;
 };
 
-#endif // LZ77_H
+#endif // RLE_H 

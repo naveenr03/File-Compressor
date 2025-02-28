@@ -2,7 +2,7 @@
 #ifndef HUFFMAN_H
 #define HUFFMAN_H
 
-#include "compressor.h"
+#include "compression_algorithm.h"
 
 class Huffman : public CompressionAlgorithm {
 public:
